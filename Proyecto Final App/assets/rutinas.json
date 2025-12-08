@@ -1,0 +1,1219 @@
+[
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Fácil - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones en pared", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Flexiones con rodillas apoyadas", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Fácil - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press en máquina ligero", "series": 3, "reps": 18, "descanso_seg": 45 },
+      { "nombre": "Aperturas en máquina", "series": 3, "reps": 15, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Fácil - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones completas lentas", "series": 3, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Flexiones inclinadas", "series": 3, "reps": 8, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Fácil - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press banca ligero", "series": 3, "reps": 5, "descanso_seg": 120 },
+      { "nombre": "Press inclinado ligero", "series": 3, "reps": 5, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Fácil - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones inclinadas", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Fondos entre bancos asistidos", "series": 3, "reps": 10, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Fácil - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press en máquina", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Aperturas con mancuernas en banco plano", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Intermedio - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones estándar", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Flexiones con manos juntas", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Intermedio - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press en máquina continuo", "series": 4, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Cruces en polea ligera", "series": 4, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Intermedio - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones declinadas", "series": 4, "reps": 8, "descanso_seg": 120 },
+      { "nombre": "Fondos en banco", "series": 4, "reps": 8, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Intermedio - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press banca medio-alto", "series": 5, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Press inclinado con barra", "series": 4, "reps": 5, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Intermedio - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones declinadas", "series": 4, "reps": 12, "descanso_seg": 75 },
+      { "nombre": "Fondos entre bancos", "series": 4, "reps": 12, "descanso_seg": 75 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Intermedio - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press banca con mancuernas", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Press inclinado con mancuernas", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Aperturas en banco plano", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Avanzado - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones explosivas con palmada", "series": 4, "reps": 15, "descanso_seg": 30 },
+      { "nombre": "Flexiones declinadas altas", "series": 4, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Avanzado - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Circuito press máquina + aperturas", "series": 4, "reps": 25, "descanso_seg": 20 },
+      { "nombre": "Cruces en polea alta continuo", "series": 4, "reps": 25, "descanso_seg": 20 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Avanzado - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones a una mano asistidas", "series": 4, "reps": 6, "descanso_seg": 150 },
+      { "nombre": "Fondos en paralelas", "series": 4, "reps": 6, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Avanzado - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press banca pesado (85–90% 1RM)", "series": 5, "reps": 3, "descanso_seg": 180 },
+      { "nombre": "Press inclinado pesado", "series": 4, "reps": 4, "descanso_seg": 180 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "pecho",
+    "nombre": "Pecho - Avanzado - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Flexiones lastreadas", "series": 4, "reps": 12, "descanso_seg": 75 },
+      { "nombre": "Fondos en paralelas lastreados", "series": 4, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "pecho",
+    "nombre": "Pecho - Avanzado - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press banca 8–10 reps", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Press inclinado 8–10 reps", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Cruces en polea", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Fácil - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Remo con banda ligera", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Apertura inversa con banda", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Fácil - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón al pecho ligero", "series": 3, "reps": 18, "descanso_seg": 45 },
+      { "nombre": "Remo en polea ligero", "series": 3, "reps": 18, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Fácil - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas asistidas con banda", "series": 3, "reps": 5, "descanso_seg": 90 },
+      { "nombre": "Remo invertido rodillas apoyadas", "series": 3, "reps": 8, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Fácil - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Remo en máquina ligero", "series": 3, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Jalón al pecho agarre supino ligero", "series": 3, "reps": 6, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Fácil - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Remo invertido pies flexionados", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Superman en el suelo", "series": 3, "reps": 15, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Fácil - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón al pecho", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Remo sentado en polea", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Intermedio - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas asistidas", "series": 3, "reps": 10, "descanso_seg": 30 },
+      { "nombre": "Remo invertido cuerpo recto", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Intermedio - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón al pecho en superserie con remo", "series": 4, "reps": 18, "descanso_seg": 30 },
+      { "nombre": "Face pull ligero", "series": 4, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Intermedio - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas pronas", "series": 4, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Remo invertido pies elevados", "series": 4, "reps": 8, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Intermedio - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Remo con barra", "series": 5, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Peso muerto rumano medio", "series": 4, "reps": 5, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Intermedio - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas pronas 8–10 reps", "series": 4, "reps": 8, "descanso_seg": 75 },
+      { "nombre": "Remo invertido en barra baja", "series": 4, "reps": 12, "descanso_seg": 75 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Intermedio - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón al pecho", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Remo sentado en polea", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Face pull", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Avanzado - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas altas rápidas", "series": 4, "reps": 12, "descanso_seg": 30 },
+      { "nombre": "Remo invertido explosivo", "series": 4, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Avanzado - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Circuito jalón + remo + face pull", "series": 4, "reps": 20, "descanso_seg": 20 },
+      { "nombre": "Extensiones lumbares altas repeticiones", "series": 4, "reps": 25, "descanso_seg": 20 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Avanzado - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas lastradas", "series": 4, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Remo invertido con peso", "series": 4, "reps": 6, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Avanzado - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Peso muerto convencional pesado", "series": 5, "reps": 3, "descanso_seg": 180 },
+      { "nombre": "Remo Pendlay pesado", "series": 4, "reps": 4, "descanso_seg": 180 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "espalda",
+    "nombre": "Espalda - Avanzado - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas lastreadas 8–10 reps", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Remo invertido pies elevados lastre", "series": 4, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "espalda",
+    "nombre": "Espalda - Avanzado - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón al pecho pesado", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Remo con barra T", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Face pull controlado", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+
+
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Fácil - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadillas al aire", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Desplantes cortos", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Fácil - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Prensa ligera", "series": 3, "reps": 20, "descanso_seg": 45 },
+      { "nombre": "Extensión de cuádriceps ligera", "series": 3, "reps": 20, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Fácil - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadilla lenta", "series": 3, "reps": 10, "descanso_seg": 90 },
+      { "nombre": "Zancada atrás controlada", "series": 3, "reps": 8, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Fácil - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Sentadilla goblet ligera", "series": 3, "reps": 8, "descanso_seg": 120 },
+      { "nombre": "Prensa media", "series": 3, "reps": 8, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Fácil - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadilla al aire 12–15 reps", "series": 3, "reps": 15, "descanso_seg": 60 },
+      { "nombre": "Puente de glúteos", "series": 3, "reps": 15, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Fácil - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Prensa de piernas", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Extensión de cuádriceps", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Intermedio - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadillas rápidas", "series": 3, "reps": 25, "descanso_seg": 30 },
+      { "nombre": "Desplantes caminando", "series": 3, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Intermedio - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Prensa continua", "series": 4, "reps": 25, "descanso_seg": 30 },
+      { "nombre": "Curl femoral ligero", "series": 4, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Intermedio - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadilla a una pierna asistida", "series": 4, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Zancada larga", "series": 4, "reps": 8, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Intermedio - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Sentadilla con barra", "series": 5, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Peso muerto rumano", "series": 4, "reps": 5, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Intermedio - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadilla búlgara", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Puente de glúteos a una pierna", "series": 4, "reps": 12, "descanso_seg": 75 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Intermedio - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Sentadilla con barra", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Prensa de piernas", "series": 4, "reps": 10, "descanso_seg": 90 },
+      { "nombre": "Extensión de cuádriceps", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Avanzado - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadillas rápidas altas reps", "series": 4, "reps": 40, "descanso_seg": 30 },
+      { "nombre": "Saltos en sentadilla", "series": 4, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Avanzado - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Circuito prensa + zancadas + extensiones", "series": 4, "reps": 25, "descanso_seg": 20 },
+      { "nombre": "Curl femoral altas reps", "series": 4, "reps": 25, "descanso_seg": 20 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Avanzado - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadilla pistola", "series": 4, "reps": 6, "descanso_seg": 150 },
+      { "nombre": "Zancadas con salto", "series": 4, "reps": 8, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Avanzado - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Sentadilla trasera pesada", "series": 5, "reps": 3, "descanso_seg": 180 },
+      { "nombre": "Peso muerto rumano pesado", "series": 4, "reps": 4, "descanso_seg": 180 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "pierna",
+    "nombre": "Pierna - Avanzado - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Sentadilla búlgara profunda", "series": 4, "reps": 12, "descanso_seg": 90 },
+      { "nombre": "Puente de glúteos con peso corporal lento", "series": 4, "reps": 15, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "pierna",
+    "nombre": "Pierna - Avanzado - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Sentadilla frontal", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Prensa pesada", "series": 4, "reps": 10, "descanso_seg": 90 },
+      { "nombre": "Extensión de cuádriceps lenta", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Fácil - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Curl con banda ligera", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Curl martillo con banda", "series": 3, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Fácil - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl en polea ligera", "series": 3, "reps": 18, "descanso_seg": 45 },
+      { "nombre": "Curl banco Scott ligero", "series": 3, "reps": 18, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Fácil - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas supinas asistidas", "series": 3, "reps": 5, "descanso_seg": 90 },
+      { "nombre": "Curl isométrico con banda", "series": 3, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Fácil - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl con mancuernas pesado ligero", "series": 3, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Curl en polea", "series": 3, "reps": 6, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Fácil - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Curl con banda 12–15 reps", "series": 3, "reps": 15, "descanso_seg": 60 },
+      { "nombre": "Curl martillo con banda", "series": 3, "reps": 15, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Fácil - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl con mancuernas alterno", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Curl banco Scott", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Intermedio - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas supinas 10 reps", "series": 3, "reps": 10, "descanso_seg": 30 },
+      { "nombre": "Curl con banda continua", "series": 3, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Intermedio - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl en polea alta", "series": 4, "reps": 18, "descanso_seg": 30 },
+      { "nombre": "Curl barra Z ligero", "series": 4, "reps": 18, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Intermedio - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas supinas", "series": 4, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Dominadas isométricas", "series": 4, "reps": 6, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Intermedio - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl barra Z pesado medio", "series": 5, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Curl martillo pesado", "series": 4, "reps": 5, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Intermedio - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas supinas 8–10", "series": 4, "reps": 8, "descanso_seg": 75 },
+      { "nombre": "Curl con banda en tempo", "series": 4, "reps": 12, "descanso_seg": 75 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Intermedio - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl alterno mancuernas", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Curl concentrado", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Avanzado - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas supinas altas reps", "series": 4, "reps": 15, "descanso_seg": 30 },
+      { "nombre": "Curl banda rápida", "series": 4, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Avanzado - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Circuito curl barra + curl polea", "series": 4, "reps": 20, "descanso_seg": 20 },
+      { "nombre": "Curl martillo continuo", "series": 4, "reps": 20, "descanso_seg": 20 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Avanzado - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas lastradas supinas", "series": 4, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Dominadas isométricas lastradas", "series": 4, "reps": 5, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Avanzado - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl barra Z pesado", "series": 5, "reps": 3, "descanso_seg": 180 },
+      { "nombre": "Curl martillo muy pesado", "series": 4, "reps": 4, "descanso_seg": 180 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Avanzado - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Dominadas supinas lastreadas 8–10", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Curl con banda lenta", "series": 4, "reps": 12, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "biceps",
+    "nombre": "Bíceps - Avanzado - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Curl barra Z 8–10", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Curl alterno pesado", "series": 4, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+
+
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Fácil - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en banco con pies cerca", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Extensión de tríceps con banda", "series": 3, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Fácil - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón en polea con cuerda ligero", "series": 3, "reps": 18, "descanso_seg": 45 },
+      { "nombre": "Extensión sobre cabeza polea", "series": 3, "reps": 18, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Fácil - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en banco lentos", "series": 3, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Flexiones con manos juntas", "series": 3, "reps": 8, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Fácil - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press cerrado ligero", "series": 3, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Jalón en polea agarre inverso", "series": 3, "reps": 6, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Fácil - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en banco 12–15", "series": 3, "reps": 15, "descanso_seg": 60 },
+      { "nombre": "Extensión tríceps con banda", "series": 3, "reps": 15, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Fácil - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón en cuerda", "series": 3, "reps": 12, "descanso_seg": 60 },
+      { "nombre": "Extensión sobre cabeza mancuernas", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Intermedio - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en banco pies lejos", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Flexiones diamante", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Intermedio - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón polea en superserie", "series": 4, "reps": 18, "descanso_seg": 30 },
+      { "nombre": "Extensión en polea alta", "series": 4, "reps": 18, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Intermedio - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en paralelas asistidos", "series": 4, "reps": 6, "descanso_seg": 120 },
+      { "nombre": "Flexiones diamante lentas", "series": 4, "reps": 8, "descanso_seg": 120 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Intermedio - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press cerrado medio", "series": 5, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Jalón en polea pesado", "series": 4, "reps": 5, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Intermedio - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en paralelas 8–10", "series": 4, "reps": 8, "descanso_seg": 75 },
+      { "nombre": "Flexiones diamante", "series": 4, "reps": 12, "descanso_seg": 75 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Intermedio - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón cuerda 10–12", "series": 4, "reps": 10, "descanso_seg": 75 },
+      { "nombre": "Press francés", "series": 3, "reps": 12, "descanso_seg": 60 }
+    ]
+  },
+
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Avanzado - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en paralelas altas reps", "series": 4, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Flexiones diamante explosivas", "series": 4, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Avanzado - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Circuito jalón + press francés", "series": 4, "reps": 20, "descanso_seg": 20 },
+      { "nombre": "Extensión polea continua", "series": 4, "reps": 20, "descanso_seg": 20 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Avanzado - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos en paralelas lastrados", "series": 4, "reps": 5, "descanso_seg": 150 },
+      { "nombre": "Flexiones diamante lastradas", "series": 4, "reps": 6, "descanso_seg": 150 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Avanzado - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Press cerrado pesado", "series": 5, "reps": 3, "descanso_seg": 180 },
+      { "nombre": "Jalón polea muy pesado", "series": 4, "reps": 4, "descanso_seg": 180 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Avanzado - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Fondos lastrados 8–10", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Flexiones diamante lentas", "series": 4, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "triceps",
+    "nombre": "Tríceps - Avanzado - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Jalón cuerda pesado", "series": 4, "reps": 8, "descanso_seg": 90 },
+      { "nombre": "Press francés 10–12", "series": 4, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+
+
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Fácil - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Crunch básico", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Plancha frontal", "series": 3, "reps": 20, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Fácil - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Crunch en máquina ligero", "series": 3, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Elevación de rodillas en banco", "series": 3, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Fácil - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Plancha frontal prolongada", "series": 3, "reps": 30, "descanso_seg": 60 },
+      { "nombre": "Plancha lateral", "series": 3, "reps": 20, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Fácil - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Plancha con apoyo en banco", "series": 3, "reps": 20, "descanso_seg": 60 },
+      { "nombre": "Crunch máquina lento", "series": 3, "reps": 15, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Fácil - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Crunch con pausa arriba", "series": 3, "reps": 15, "descanso_seg": 45 },
+      { "nombre": "Elevación de rodillas acostado", "series": 3, "reps": 15, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "facil",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Fácil - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Crunch en máquina", "series": 3, "reps": 12, "descanso_seg": 45 },
+      { "nombre": "Elevación de rodillas colgado asistido", "series": 3, "reps": 12, "descanso_seg": 45 }
+    ]
+  },
+
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Intermedio - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Crunch bicicleta", "series": 3, "reps": 25, "descanso_seg": 30 },
+      { "nombre": "Plancha frontal 30–40s", "series": 3, "reps": 30, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Intermedio - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Crunch en máquina continua", "series": 4, "reps": 20, "descanso_seg": 30 },
+      { "nombre": "Elevación de rodillas colgado", "series": 4, "reps": 15, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Intermedio - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Plancha frontal 45–60s", "series": 3, "reps": 45, "descanso_seg": 60 },
+      { "nombre": "Plancha lateral 30–40s", "series": 3, "reps": 30, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Intermedio - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Plancha con disco ligero", "series": 3, "reps": 30, "descanso_seg": 60 },
+      { "nombre": "Crunch máquina pesado medio", "series": 3, "reps": 10, "descanso_seg": 60 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Intermedio - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Crunch en V", "series": 4, "reps": 15, "descanso_seg": 45 },
+      { "nombre": "Elevación de piernas", "series": 4, "reps": 15, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "intermedio",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Intermedio - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Crunch máquina 12–15", "series": 4, "reps": 12, "descanso_seg": 45 },
+      { "nombre": "Elevaciones colgado", "series": 4, "reps": 12, "descanso_seg": 45 }
+    ]
+  },
+
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Avanzado - Resistencia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Crunch bicicleta rápido", "series": 4, "reps": 30, "descanso_seg": 30 },
+      { "nombre": "Plancha dinámica", "series": 4, "reps": 30, "descanso_seg": 30 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Avanzado - Resistencia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Circuito crunch máquina + elevaciones", "series": 4, "reps": 25, "descanso_seg": 20 },
+      { "nombre": "Plancha con deslizamientos", "series": 4, "reps": 25, "descanso_seg": 20 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Avanzado - Fuerza - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Plancha 60–90s", "series": 3, "reps": 60, "descanso_seg": 60 },
+      { "nombre": "Dragon flag progresión", "series": 4, "reps": 6, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "fuerza",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Avanzado - Fuerza - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Plancha con disco pesado", "series": 3, "reps": 45, "descanso_seg": 60 },
+      { "nombre": "Ab wheel", "series": 4, "reps": 10, "descanso_seg": 90 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "peso_corporal",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Avanzado - Hipertrofia - Peso corporal",
+    "ejercicios": [
+      { "nombre": "Crunch con pausa y giro", "series": 4, "reps": 20, "descanso_seg": 45 },
+      { "nombre": "Elevación de piernas lenta", "series": 4, "reps": 15, "descanso_seg": 45 }
+    ]
+  },
+  {
+    "nivel": "avanzado",
+    "objetivo": "hipertrofia",
+    "entorno": "gimnasio",
+    "musculo": "abdomen",
+    "nombre": "Abdomen - Avanzado - Hipertrofia - Gimnasio",
+    "ejercicios": [
+      { "nombre": "Crunch máquina pesado", "series": 4, "reps": 8, "descanso_seg": 60 },
+      { "nombre": "Elevaciones colgado con peso", "series": 4, "reps": 10, "descanso_seg": 60 }
+    ]
+  }
+]

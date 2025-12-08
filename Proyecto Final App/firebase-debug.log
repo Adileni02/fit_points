@@ -1,0 +1,61 @@
+[debug] [2025-12-04T00:15:52.463Z] ----------------------------------------------------------------------
+[debug] [2025-12-04T00:15:52.464Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\adile\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-12-04T00:15:52.464Z] CLI Version:   14.27.0
+[debug] [2025-12-04T00:15:52.464Z] Platform:      win32
+[debug] [2025-12-04T00:15:52.464Z] Node Version:  v24.11.0
+[debug] [2025-12-04T00:15:52.464Z] Time:          Wed Dec 03 2025 17:15:52 GMT-0700 (hora estándar del Pacífico de México)
+[debug] [2025-12-04T00:15:52.464Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\dev\fit_points
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
+[debug] [2025-12-04T00:16:12.534Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-04T00:16:12.534Z] > authorizing via signed-in user (adramirezlo@ittepic.edu.mx)
+[debug] [2025-12-04T00:16:12.535Z] Checked if tokens are valid: false, expires at: 1764285135857
+[debug] [2025-12-04T00:16:12.535Z] Checked if tokens are valid: false, expires at: 1764285135857
+[debug] [2025-12-04T00:16:12.535Z] > refreshing access token with scopes: []
+[debug] [2025-12-04T00:16:12.536Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-12-04T00:16:12.536Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-04T00:16:12.798Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-12-04T00:16:12.798Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-12-04T00:16:12.809Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2025-12-04T00:16:13.305Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2025-12-04T00:16:13.306Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] 
+=== Firestore Setup
+[info] i  firestore: ensuring required API firestore.googleapis.com is enabled... 
+[debug] [2025-12-04T00:16:44.559Z] Checked if tokens are valid: true, expires at: 1764810971798
+[debug] [2025-12-04T00:16:44.559Z] Checked if tokens are valid: true, expires at: 1764810971798
+[debug] [2025-12-04T00:16:44.560Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/proyectofinal-d6fcd/services/firestore.googleapis.com [none]
+[debug] [2025-12-04T00:16:44.560Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/proyectofinal-d6fcd/services/firestore.googleapis.com x-goog-quota-user=projects/proyectofinal-d6fcd
+[debug] [2025-12-04T00:16:45.256Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/proyectofinal-d6fcd/services/firestore.googleapis.com 200
+[debug] [2025-12-04T00:16:45.256Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/proyectofinal-d6fcd/services/firestore.googleapis.com [omitted]
+[info] +  firestore: required API firestore.googleapis.com is enabled 
+[debug] [2025-12-04T00:16:45.265Z] Checked if tokens are valid: true, expires at: 1764810971798
+[debug] [2025-12-04T00:16:45.265Z] Checked if tokens are valid: true, expires at: 1764810971798
+[debug] [2025-12-04T00:16:45.265Z] >>> [apiv2][query] GET https://firestore.googleapis.com/v1/projects/proyectofinal-d6fcd/databases [none]
+[debug] [2025-12-04T00:16:46.074Z] <<< [apiv2][status] GET https://firestore.googleapis.com/v1/projects/proyectofinal-d6fcd/databases 200
+[debug] [2025-12-04T00:16:46.074Z] <<< [apiv2][body] GET https://firestore.googleapis.com/v1/projects/proyectofinal-d6fcd/databases {"databases":[{"name":"projects/proyectofinal-d6fcd/databases/(default)","uid":"448a1275-62be-40a1-a6cd-e8c709b27d84","createTime":"2025-11-27T08:03:36.978041Z","updateTime":"2025-11-27T08:03:36.978041Z","locationId":"nam5","type":"FIRESTORE_NATIVE","concurrencyMode":"PESSIMISTIC","versionRetentionPeriod":"3600s","earliestVersionTime":"2025-12-03T23:16:46.710456Z","appEngineIntegrationMode":"DISABLED","keyPrefix":"s","pointInTimeRecoveryEnablement":"POINT_IN_TIME_RECOVERY_DISABLED","deleteProtectionState":"DELETE_PROTECTION_DISABLED","databaseEdition":"STANDARD","freeTier":true,"realtimeUpdatesMode":"REALTIME_UPDATES_MODE_ENABLED","etag":"IJK2v/TTopEDML6dk5XCm5ED"}]}
+[info] 
+[info] Firestore Security Rules allow you to define how and when to allow
+[info] requests. You can keep these rules in your project directory
+[info] and publish them with firebase deploy.
+[info] 
