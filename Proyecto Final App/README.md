@@ -1,4 +1,4 @@
-# fit_points
+# fitpoints_admin
 
 A new Flutter project.
 
