@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29073594820",
+    "project_id": "fitpoints-proyecto-final",
+    "storage_bucket": "fitpoints-proyecto-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29073594820:android:11374c0a44963ad0822c91",
+        "android_client_info": {
+          "package_name": "com.example.fitpoints_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oJoP56kVNjEVxoKmp6_eunucta2SmHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
